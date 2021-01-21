@@ -1,0 +1,3 @@
+marketManInfrastructureUtilsGW:
+  ingressName: mm-infra-utilgw-ingress
+  serviceName: mm-infra-utilsgw-service
